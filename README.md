@@ -19,4 +19,4 @@
 
 ### Project Sought
 
-I aim to create a **cross-platform application** that utilizes **Retrieval Augmented Generation (RAG)** to assist people in achieving their **fitness goals**, combining AI, personalized recommendations, and interactive UI.
+I aim to create a **cross-platform fitness application** that utilizes **Retrieval Augmented Generation (RAG)** to assist people in achieving their **fitness goals**, combining AI, personalized recommendations, and interactive UI.
