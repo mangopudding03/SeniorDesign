@@ -1,1 +1,1 @@
-There hasn't been a budget created.
+There hasn't been a budget created YET.
