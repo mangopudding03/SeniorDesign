@@ -30,7 +30,7 @@ A cross-platform fitness application that utilizes Retrieval Augmented Generatio
 ## Self-Assessment Essay
 [Self Assessment Essay](FinalReport/Self-Assessment-Essay.md)
 
-## Professional Biograph
+## Professional Biography
 [Professional Biography](FinalReport/Professional-Biography.md)
 
 ## Budget
