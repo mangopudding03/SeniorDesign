@@ -6,7 +6,7 @@ This manual is designed to provide additional detailed explanations of the featu
 To access the applications, users must sign up or sign in through email and password.
 
 Users can:
-- Create an account if they don't have on
+- Create an account if they don't have one
 - Sign In
 
 ---
