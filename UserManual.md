@@ -18,8 +18,8 @@ After logging in, dashboard consists of these features:
 - Recipes
 - Favorites
 - Community
-- Chat Icon
-- AI Icon
+- Mesaage Icon
+- Chatbot
 
 ---
 
